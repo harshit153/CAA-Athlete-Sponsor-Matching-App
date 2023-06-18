@@ -1,0 +1,57 @@
+code {
+  color: rgb(74, 74, 74);
+  background-color: white;
+  font-family: Optima, sans-serif;
+}
+
+div[data-baseweb="select"] > div {
+    background-color: white;
+    border-color: #edf1f5;
+}
+
+div[role="listbox"] ul:hover {
+    background-color: #dbb6ba;
+    border-color: #dbb6ba;
+}
+
+label[data-baseweb="radio"] {
+    height: 100%;
+    padding: 0.1vh 0;
+}
+
+label[data-baseweb="radio"] div {
+  font-size: 24px;
+  color: white;
+  margin-left: 2vh;
+  font-family: Optima, sans-serif;
+}
+
+div[class="st-bq st-br st-bs st-bt st-bu st-bv st-ay st-b3 st-bw st-bx st-by st-b5 st-bz st-c0 st-c1 st-c2 st-c3 st-c4 st-b1 st-c5"] {
+  margin-top: 1.5vh;
+  margin-bottom: 1.5vh;
+}
+
+div[class="st-bq st-ck st-bs st-bt st-bu st-bv st-ay st-b3 st-bw st-bx st-by st-b5 st-bz st-c0 st-c1 st-c2 st-c3 st-c4 st-b1 st-c5"] {
+  margin-top: 1.5vh;
+}
+
+div[class="css-13izhro e1tzin5v0"] {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+
+div[class="css-13izhro e1tzin5v0"] > div {
+  width: 35px;
+}
+
+div[class="css-1ujmwvn e16nr0p34"] p {
+  font-size: 24px;
+}
+<<<<<<< HEAD
+=======
+div[data-baseweb="base-input"] {
+  background-color: #DBB6BA;
+  border-color: #DBB6BA
+}
+>>>>>>> 63adb8a805efa71e4fbad5d78938995bef9b0347

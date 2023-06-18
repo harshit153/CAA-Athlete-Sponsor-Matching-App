@@ -1,0 +1,495 @@
+Company,Median NIL Value,Median Instagram Followers,Median TikTok Followers,Median Twitter Followers,Sponsor Count,Unique Athletes Sponsored,Unique Schools Sponsored,Most Frequently Sponsored School,Kmeans
+110 Grill,12700.0,5700.0,216.0,3400.0,1.0,1,1,Providence Friars,1
+16 Handles,28000.0,20000.0,855.0,4100.0,1.0,1,1,Rutgers Scarlet Knights,1
+2FIT BRANDS,10300.0,3000.0,4900.0,172.0,1.0,1,1,Creighton Bluejays,1
+2REAL,18400.0,10200.0,29000.0,843.0,1.0,1,1,Miami Hurricanes,1
+310 Hydrate,31000.0,22000.0,7300.0,1700.0,1.0,1,1,Arkansas Razorbacks,1
+500 Level,190500.0,22650.0,3900.0,16080.0,3.0,2,2,Undecided,3
+6thverse,105000.0,37000.0,659.0,21000.0,1.0,1,1,UCLA Bruins,3
+A Kid Again,80000.0,18000.0,137.0,3800.0,1.0,1,1,Indiana Hoosiers,1
+ASAS-Los Angeles,72000.0,17600.0,118000.0,1900.0,1.0,1,1,UCLA Bruins,1
+AT&T Fiber,26000.0,15000.0,831.0,2000.0,4.0,1,1,Tennessee Volunteers,1
+ATH Posters,168000.0,123000.0,565000.0,14700.0,1.0,1,1,Oklahoma State Cowboys,4
+Academy Sports + Outdoors,61000.0,55000.0,10200.0,18400.0,5.0,1,1,Oklahoma Sooners,3
+Actively Black,193000.0,180000.0,402000.0,10100.0,4.0,1,1,North Carolina Tar Heels,4
+Advertising Week,105000.0,37000.0,659.0,21000.0,1.0,1,1,UCLA Bruins,3
+Aeropostale,369000.0,440000.0,237000.0,46000.0,1.0,1,1,UCLA Bruins,0
+Afterpay,350000.0,378000.0,491000.0,1300.0,1.0,1,1,California Golden Bears,4
+Alabama Vintage,68000.0,8300.0,114.0,3100.0,1.0,1,1,Alabama Crimson Tide,1
+Albertsons,259000.0,318000.0,15600.0,35000.0,1.0,1,1,Oregon State Beavers,0
+Albion Fit,32000.0,26000.0,3000.0,1700.0,1.0,1,1,Utah Utes,1
+Ale-8-One,524000.0,76000.0,139000.0,42000.0,1.0,1,1,Kentucky Wildcats,0
+All Vote No Play,105000.0,37000.0,659.0,21000.0,1.0,1,1,UCLA Bruins,3
+Allbirds,199000.0,241000.0,2100.0,10000.0,1.0,1,1,Oklahoma Sooners,3
+Almost Heaven Desserts & Coffee Shop,14300.0,2500.0,241.0,389.0,1.0,1,1,Undecided,1
+Amazon,125000.0,77000.0,4800.0,17200.0,4.0,3,3,Florida Gators,3
+Amazon Fashion,135500.0,161300.0,12550.0,17777.5,2.0,2,2,Oregon State Beavers,3
+Amazon Merch on Demand,213500.0,220500.0,290300.0,24850.0,2.0,2,2,Oregon State Beavers,4
+American Dairy Association Mideast,37000.0,18400.0,50000.0,2500.0,1.0,1,1,Ohio State Buckeyes,1
+American Eagle Outfitters,181000.0,46850.0,1639.5,6050.0,4.0,2,2,Ohio State Buckeyes,3
+Angel City FC,196500.0,231000.0,118594.5,23452.0,2.0,2,2,UCLA Bruins,0
+Apis Cor,42000.0,5100.0,92.0,5800.0,1.0,1,1,Florida Gators,1
+Applebee's,317000.0,4650.0,1725.0,5800.0,4.0,2,1,Ohio State Buckeyes,3
+Applebee's Grill + Bar,61500.0,16150.0,23150.0,7750.0,2.0,2,2,Kansas Jayhawks,1
+Aria Pod+,105000.0,37000.0,659.0,21000.0,1.0,1,1,UCLA Bruins,3
+Arvest Bank,69000.0,15400.0,16900.0,16300.0,1.0,1,1,Arkansas Razorbacks,1
+Athletic Brewing Company,436000.0,137000.0,1700.0,38000.0,5.0,1,1,Ohio State Buckeyes,0
+Auburn Med Spa,22000.0,9700.0,1400.0,273.0,1.0,1,1,Auburn Tigers,1
+Auntie Anne’s Pretzels,213000.0,252000.0,145000.0,6500.0,1.0,1,1,Baylor Bears,3
+B-Unlimited,102000.0,49000.0,14000.0,25000.0,3.0,1,1,UCF Knights,3
+BLACKBOUGHSWIM,84000.0,79000.0,86000.0,690.0,1.0,1,1,Louisville Cardinals,1
+BRADY,231200.0,14450.0,7450.0,5050.0,4.0,2,2,Coastal Carolina Chanticleers,3
+BUBBL'R,288500.0,339500.0,193000.0,37000.0,2.0,2,2,UCLA Bruins,0
+Babe Lash,42000.0,40000.0,602.0,108.0,1.0,1,1,Utah Utes,1
+Bad Boy Mowers,437000.0,56000.0,8900.0,16400.0,2.0,1,1,Arkansas Razorbacks,3
+Bama Stuff,145000.0,146000.0,179000.0,38000.0,1.0,1,1,Alabama Crimson Tide,0
+Bank of America,24000.0,22000.0,189.0,904.0,1.0,1,1,USC Trojans,1
+Banter by Piercing Pagoda,213000.0,252000.0,145000.0,6500.0,1.0,1,1,Baylor Bears,3
+Barcode,193000.0,180000.0,402000.0,10100.0,1.0,1,1,North Carolina Tar Heels,4
+Barstool Sports,38500.0,5050.0,315.0,3350.0,108.0,34,17,Undecided,2
+Bartleby,53000.0,44350.0,43700.0,481.5,3.0,2,2,Auburn Tigers,1
+Basepath,40000.0,3200.0,259.0,1400.0,4.0,3,2,Kansas State Wildcats,1
+Baylee Klingler Hitting Camp,38000.0,30000.0,17000.0,5800.0,1.0,1,1,Washington Huskies,1
+Be The Match,105000.0,37000.0,659.0,21000.0,1.0,1,1,UCLA Bruins,3
+Beats by Dre,294500.0,119500.0,7850.0,8700.0,9.0,4,4,Clemson Tigers,3
+Behind the Glass,22000.0,9700.0,1400.0,273.0,1.0,1,1,Auburn Tigers,1
+Berry Blendz,22000.0,4300.0,2300.0,587.0,2.0,1,1,Ohio State Buckeyes,1
+Big Brothers Big Sisters of Central Indiana,30000.0,19200.0,2500.0,6300.0,2.0,1,1,Indiana Hoosiers,1
+Blue Linen Boutique,14300.0,120.0,15700.0,1600.0,1.0,1,1,Utah Utes,1
+Bobbitt Construction,197000.0,16700.0,4600.0,5900.0,2.0,1,1,NC State Wolfpack,3
+Bojangles,84000.0,48000.0,6500.0,16800.0,12.0,5,5,Alabama Crimson Tide,5
+Bonfire,42000.0,40000.0,602.0,108.0,1.0,1,1,Utah Utes,1
+Boomer Kia,143500.0,14600.0,1017.5,10800.0,3.0,2,1,Oklahoma Sooners,1
+Boone's Trace National Golf Club,524000.0,76000.0,139000.0,42000.0,1.0,1,1,Kentucky Wildcats,0
+Boost Mobile,68000.0,19700.0,602.0,11500.0,8.0,2,2,Colorado Buffaloes,1
+Booster Athletes,364000.0,45000.0,2400.0,27000.0,6.0,3,3,Florida State Seminoles,3
+Born To Be Me,31000.0,22000.0,7300.0,1700.0,1.0,1,1,Arkansas Razorbacks,1
+Bose,102000.0,107000.0,31000.0,28000.0,2.0,1,1,South Carolina Gamecocks,3
+Boutine Los Angeles,168000.0,123000.0,565000.0,14700.0,1.0,1,1,Oklahoma State Cowboys,4
+Boys & Girls Clubs of the Pee Dee,106000.0,40000.0,70000.0,39000.0,1.0,1,1,Clemson Tigers,3
+Brandon Dial Family Attorney,66000.0,18400.0,9100.0,6200.0,1.0,1,1,Georgia Bulldogs,1
+Brazyn Life,15600.0,2000.0,178.0,458.0,1.0,1,1,Clemson Tigers,1
+Breaking T,35000.0,22000.0,3700.0,11600.0,1.0,1,1,Oklahoma Sooners,1
+Bright Swimwear,49750.0,41600.0,43900.0,453.0,2.0,2,2,Utah Utes,1
+Buff City Soap,213000.0,252000.0,145000.0,6500.0,1.0,1,1,Baylor Bears,3
+Bumble,32150.0,26400.0,6150.0,2500.0,4.0,2,2,LSU Tigers,1
+Burrito Express,36000.0,4600.0,287.0,3800.0,1.0,1,1,Arizona State Sun Devils,1
+C.W. URBAN,17400.0,6400.0,3100.0,751.5,11.0,10,2,Utah Utes,5
+C4 Energy,12000.0,4600.0,9500.0,555.0,2.0,1,1,USC Trojans,1
+CAMPUS,59000.0,15400.0,5100.0,7700.0,5.0,3,3,Minnesota Golden Gophers,1
+CMG Leasing,18300.0,6900.0,1435.0,4200.0,4.0,2,1,Virginia Tech Hokies,1
+CVS,24000.0,4800.0,110000.0,632.0,1.0,1,1,Pittsburgh Panthers,1
+Cameo,59000.0,24000.0,4000.0,6700.0,105.0,41,23,Undecided,2
+Camp Camden,63000.0,26000.0,246000.0,1200.0,1.0,1,1,Penn State Nittany Lions,1
+Campbell’s Chunky,188000.0,225000.0,27000.0,19500.0,1.0,1,1,South Carolina Gamecocks,3
+Cancer Support Community South Central Indiana,18350.0,4550.0,399.0,5100.0,2.0,2,1,Indiana Hoosiers,1
+Candy Digital,239500.0,81500.0,5250.0,17400.0,19.0,9,8,Clemson Tigers,5
+Carolina Basketball Association,20000.0,7500.0,657.0,1800.0,2.0,1,1,South Carolina Gamecocks,1
+Cascadia Public House,20000.0,15900.0,873.0,3600.0,1.0,1,1,Gonzaga Bulldogs,1
+Cats Can,449000.0,5700.0,520.0,3300.0,2.0,1,1,Kansas State Wildcats,3
+Celestial Seasonings Tea,105000.0,37000.0,659.0,21000.0,1.0,1,1,UCLA Bruins,3
+Celsius,171000.0,209000.0,64000.0,4500.0,1.0,1,1,Stanford Cardinal,3
+Chamberlin Brand,17700.0,12000.0,1400.0,4400.0,1.0,1,1,TCU Horned Frogs,1
+Champion,59500.0,56500.0,7100.0,2600.0,2.0,2,2,UCLA Bruins,1
+Champs Sports,101000.0,98000.0,145000.0,1800.0,8.0,3,3,Baylor Bears,1
+Champs x Eastbay,49000.0,38000.0,11100.0,3100.0,2.0,1,1,Texas Longhorns,1
+Charlie Hustle,57000.0,21400.0,22914.0,9000.0,11.0,6,3,Kansas Jayhawks,5
+Charlotte Football Club,15800.0,2300.0,403.0,376.0,1.0,1,1,Undecided,1
+Cheetos,369000.0,440000.0,237000.0,46000.0,1.0,1,1,UCLA Bruins,0
+Cheribundi,392000.0,30000.0,919.0,7100.0,1.0,1,1,North Carolina Tar Heels,3
+Chicago White Sox,207000.0,82000.0,373000.0,12400.0,2.0,1,1,Michigan Wolverines,4
+Children's Safety Center,23000.0,9200.0,22000.0,6600.0,10.0,5,1,Arkansas Razorbacks,1
+Chipotle,317000.0,4650.0,1725.0,5800.0,6.0,2,1,Ohio State Buckeyes,3
+Christopher Mobley,84000.0,48000.0,3600.0,16800.0,2.0,1,1,Undecided,3
+Clarks Shoes,84000.0,79000.0,86000.0,690.0,1.0,1,1,Louisville Cardinals,1
+Clean Energy,113250.0,15000.0,283.0,9200.0,5.0,2,2,South Carolina Gamecocks,1
+ClearCover,105000.0,37000.0,659.0,21000.0,2.0,1,1,UCLA Bruins,3
+Clearcover Insurance,108500.0,120450.0,74751.0,14071.5,2.0,2,2,Utah Utes,3
+Clemson Area African American Museum,44000.0,4800.0,183.0,3100.0,1.0,1,1,Clemson Tigers,1
+Clemson Downs,205800.0,76500.0,3339.0,20729.0,2.0,2,1,Clemson Tigers,3
+Coaches Oats,42000.0,40000.0,602.0,108.0,1.0,1,1,Utah Utes,1
+Coaches vs. Cancer,178000.0,92000.0,55000.0,9600.0,1.0,1,1,Kansas Jayhawks,3
+Coin Cloud,75000.0,88000.0,9200.0,5700.0,1.0,1,1,Stanford Cardinal,1
+College Football Edits,101000.0,44000.0,9750.0,16400.0,2.0,2,2,Texas Longhorns,3
+College Hunks Hauling Junk & Moving,55500.0,46200.0,40400.0,5450.0,4.0,2,1,Florida Gators,1
+Collins Childrens Home,66000.0,14900.0,149.0,7800.0,1.0,1,1,Clemson Tigers,1
+Command,188000.0,225000.0,27000.0,19500.0,1.0,1,1,South Carolina Gamecocks,3
+Community Cancer Fund,28000.0,23450.0,1336.5,4800.0,10.0,4,1,Gonzaga Bulldogs,1
+Courtside With Camden,63000.0,26000.0,246000.0,1200.0,1.0,1,1,Penn State Nittany Lions,1
+Courtsmith,33000.0,29000.0,5.0,757.0,1.0,1,1,California Golden Bears,1
+Craddock Oil Company/BlueSky,102000.0,49000.0,14000.0,25000.0,1.0,1,1,UCF Knights,3
+CrisP Clothing,106500.0,9750.0,444.5,3650.0,4.0,4,1,Alabama Crimson Tide,1
+Culver's Restaurants,257000.0,8500.0,108.0,5000.0,1.0,1,1,Wisconsin Badgers,3
+D1Softball,27000.0,18000.0,9400.0,2300.0,1.0,1,1,UCLA Bruins,1
+DIRECTV,234500.0,41000.0,2879.5,24000.0,4.0,2,2,UCLA Bruins,3
+Daps,64000.0,33500.0,4450.0,2100.0,6.0,4,4,California Golden Bears,5
+Darlington Raceway,443000.0,21000.0,7800.0,8800.0,1.0,1,1,Coastal Carolina Chanticleers,3
+Degree Deodorant,68000.0,37500.0,8600.0,9350.0,13.0,6,5,UCLA Bruins,5
+Designer Shoe Warehouse,436000.0,137000.0,1700.0,38000.0,2.0,1,1,Ohio State Buckeyes,0
+Dexcom,15450.0,6300.0,523.5,2444.5,4.0,2,2,Virginia Cavaliers,1
+Diamond Kinetic,145000.0,146000.0,179000.0,38000.0,1.0,1,1,Alabama Crimson Tide,0
+Diamond Miller Camp,17700.0,6500.0,1400.0,296.0,1.0,1,1,Maryland Terrapins,1
+Dick's Sporting Goods,198000.0,232000.0,88000.0,23750.0,4.0,2,2,Utah Utes,0
+Dicks Sporting Goods,101000.0,98000.0,176000.0,1000.0,1.0,1,1,Duke Blue Devils,1
+Direct Auto Insurance,25000.0,21000.0,4400.0,5500.0,1.0,1,1,NC State Wolfpack,1
+Discord,46000.0,39000.0,659.0,3300.0,3.0,3,3,Utah Utes,1
+Dollar Shave Club,37000.0,18400.0,50000.0,2500.0,3.0,1,1,Ohio State Buckeyes,1
+Dollar Slice Club,64000.0,11800.0,1300.0,4300.0,3.0,1,1,Texas Longhorns,1
+Dolores Lemon & Associates Real Estate Professiona,51000.0,10000.0,28.0,5500.0,1.0,1,1,Oklahoma State Cowboys,1
+Door Dash,369000.0,440000.0,237000.0,46000.0,3.0,1,1,UCLA Bruins,0
+DormRoomFund,105000.0,37000.0,659.0,21000.0,1.0,1,1,UCLA Bruins,3
+Dough Street,14300.0,2500.0,241.0,389.0,1.0,1,1,Undecided,1
+Dove,45000.0,41000.0,2400.0,3500.0,1.0,1,1,UCLA Bruins,1
+Dr. Dish Basketball,188000.0,225000.0,27000.0,19500.0,1.0,1,1,South Carolina Gamecocks,3
+Dr. Pepper,396000.0,151000.0,6500.0,41000.0,1.0,1,1,Clemson Tigers,0
+Drift Hotels,369000.0,440000.0,237000.0,46000.0,1.0,1,1,UCLA Bruins,0
+Dunkin',19500.0,5500.0,19700.0,677.0,17.0,9,3,Pittsburgh Panthers,5
+Ease Plumbing and Air,134000.0,74000.0,4400.0,26000.0,1.0,1,1,North Carolina Tar Heels,3
+Eastbay,75000.0,88000.0,9200.0,5700.0,4.0,1,1,Stanford Cardinal,1
+Eat Clean Bro,12000.0,4600.0,9500.0,555.0,1.0,1,1,USC Trojans,1
+Eberg Capital,554000.0,133000.0,889.0,47000.0,1.0,1,1,Michigan Wolverines,0
+Elle & Design,22000.0,9700.0,1400.0,273.0,1.0,1,1,Auburn Tigers,1
+Empire Classic,52000.0,54000.0,28000.0,16400.0,1.0,1,1,Syracuse Orange,1
+Engage,103500.0,28000.0,293.5,12250.0,27.0,6,5,Undecided,5
+Ent Credit Union,26000.0,3200.0,7100.0,1400.0,1.0,1,1,Colorado State Rams,1
+Enzo,42000.0,40000.0,602.0,108.0,1.0,1,1,Utah Utes,1
+Eskimo Joe’s,238000.0,18000.0,13.0,14100.0,1.0,1,1,Oklahoma State Cowboys,3
+Essentia Water,193000.0,180000.0,402000.0,10100.0,1.0,1,1,North Carolina Tar Heels,4
+EvoShield,221500.0,34250.0,2150.0,27250.0,2.0,2,1,Oklahoma Sooners,3
+Exiza,26000.0,24000.0,3900.0,2400.0,1.0,1,1,USC Trojans,1
+Express,436000.0,137000.0,1700.0,38000.0,2.0,1,1,Ohio State Buckeyes,0
+FTX,22000.0,12300.0,4300.0,1100.0,3.0,1,1,UCLA Bruins,1
+Family Promise,29000.0,19800.0,2600.0,4500.0,9.0,3,1,Kansas Jayhawks,1
+Fan Arch,449000.0,5700.0,520.0,3300.0,3.0,1,1,Kansas State Wildcats,3
+Fan Controlled Football,69000.0,18700.0,1000.0,5600.0,2.0,1,1,Clemson Tigers,1
+FanBasis,30000.0,19300.0,8600.0,1500.0,3.0,1,1,Auburn Tigers,1
+FanJolt,145000.0,146000.0,179000.0,38000.0,2.0,1,1,Alabama Crimson Tide,0
+Fanatics,143000.0,37000.0,5400.0,5200.0,8.0,1,1,Duke Blue Devils,1
+Fans Meet Idols,42000.0,16500.0,6600.0,3300.0,15.0,8,6,Florida Gators,5
+Farmers Bank & Trust,69000.0,18500.0,1300.0,6300.0,2.0,1,1,Arkansas Razorbacks,1
+Fenty Skin,188000.0,225000.0,27000.0,19500.0,1.0,1,1,South Carolina Gamecocks,3
+Fetch Rewards,42000.0,31000.0,9600.0,12100.0,2.0,1,1,Wisconsin Badgers,1
+FetchMe Delivery,18300.0,4100.0,1600.0,893.0,1.0,1,1,Auburn Tigers,1
+Fifth Season,14200.0,5900.0,19700.0,299.0,1.0,1,1,Pittsburgh Panthers,1
+Fire Fly Recovery,24000.0,4800.0,110000.0,632.0,1.0,1,1,Pittsburgh Panthers,1
+Flatstick Pub,25500.0,1278.5,241.5,837.0,5.0,2,2,Undecided,1
+Fletcher Jones Motorcars,242000.0,3700.0,5.0,1200.0,2.0,1,1,USC Trojans,3
+Florida KidCare,76000.0,77000.0,4800.0,9600.0,1.0,1,1,Florida Gators,1
+Force Factor,168000.0,123000.0,565000.0,14700.0,1.0,1,1,Oklahoma State Cowboys,4
+Forever 21,193000.0,180000.0,402000.0,10100.0,2.0,1,1,North Carolina Tar Heels,4
+Fortnite,75000.0,22000.0,9200.0,5700.0,13.0,9,5,Michigan Wolverines,5
+Freak Strength and Abby Bosco Camp,15000.0,3100.0,495.0,4.0,1.0,1,1,Maryland Terrapins,1
+Fred Caldwell Chevrolet,241000.0,135000.0,20000.0,19700.0,1.0,1,1,Clemson Tigers,3
+GE Profile,84000.0,79000.0,86000.0,690.0,1.0,1,1,Louisville Cardinals,1
+GK Gymnastics,369000.0,440000.0,237000.0,46000.0,1.0,1,1,UCLA Bruins,0
+GLD,22000.0,12300.0,4300.0,1100.0,2.0,1,1,UCLA Bruins,1
+GOAT,22000.0,10100.0,30000.0,1800.0,3.0,3,2,Oregon Ducks,1
+Gait Lacrosse,15000.0,3100.0,495.0,4.0,1.0,1,1,Maryland Terrapins,1
+Game Day Products,142000.0,23500.0,249.0,8450.0,5.0,2,2,LSU Tigers,1
+GameChanger Tailgate,119500.0,13350.0,67200.0,4550.0,5.0,2,1,West Virginia Mountaineers,1
+Garmin,101000.0,98000.0,176000.0,1000.0,1.0,1,1,Duke Blue Devils,1
+Gatorade,168000.0,123000.0,565000.0,14700.0,6.0,1,1,Oklahoma State Cowboys,4
+George and Roszena Shaw Center for Housing and Eco,256000.0,9600.0,138.0,2900.0,1.0,1,1,Clemson Tigers,3
+Get.Juice,105000.0,37000.0,659.0,21000.0,1.0,1,1,UCLA Bruins,3
+Girls Inc St. Louis,15600.0,2000.0,178.0,458.0,1.0,1,1,Clemson Tigers,1
+Glad,61000.0,55000.0,10200.0,18400.0,1.0,1,1,Oklahoma Sooners,3
+GoPowercat,449000.0,5700.0,520.0,3300.0,3.0,1,1,Kansas State Wildcats,3
+Google,76000.0,77000.0,4800.0,9600.0,1.0,1,1,Florida Gators,1
+Gopher Brand Athletes,197000.0,16700.0,4600.0,5900.0,1.0,1,1,NC State Wolfpack,3
+Gordon McKernan Injury Attorneys,65000.0,15200.0,249.0,5700.0,16.0,9,1,LSU Tigers,5
+Grafton High School Youth Football Camp,114000.0,11950.0,3850.0,6050.0,2.0,2,1,West Virginia Mountaineers,1
+Grammarly,188000.0,225000.0,27000.0,19500.0,1.0,1,1,South Carolina Gamecocks,3
+Grand Slam Collectibles,524000.0,76000.0,139000.0,42000.0,1.0,1,1,Kentucky Wildcats,0
+Greater Baton Rouge Food Bank,65000.0,17500.0,3100.0,2300.0,1.0,1,1,LSU Tigers,1
+Greensboro Housing Authority,44000.0,13800.0,229.0,6900.0,1.0,1,1,North Carolina Tar Heels,1
+Gymshark,369000.0,440000.0,237000.0,46000.0,2.0,1,1,UCLA Bruins,0
+H&M,30000.0,19300.0,8600.0,1500.0,1.0,1,1,Auburn Tigers,1
+H&R Block,208000.0,239000.0,145000.0,28000.0,6.0,5,5,Utah Utes,0
+Hallow,208000.0,239000.0,149000.0,28000.0,1.0,1,1,Utah Utes,0
+Halo Top Creamery,19800.0,15600.0,480.0,2100.0,1.0,1,1,NC State Wolfpack,1
+Harmless Harvest,188000.0,225000.0,27000.0,19500.0,1.0,1,1,South Carolina Gamecocks,3
+Headspace,208000.0,239000.0,149000.0,28000.0,1.0,1,1,Utah Utes,0
+Hearth,171000.0,209000.0,64000.0,4500.0,1.0,1,1,Stanford Cardinal,3
+Help Hope Live,293000.0,42000.0,161000.0,23000.0,1.0,1,1,Clemson Tigers,3
+HighlightHER,24000.0,15200.0,3750.0,1700.0,12.0,8,6,Oregon Ducks,5
+Hollingsworth Richards Ford,171000.0,85000.0,4300.0,24000.0,1.0,1,1,Undecided,3
+Home Team Grill,14000.0,8000.0,55.0,1800.0,1.0,1,1,VCU Rams,1
+Honey Stinger,100500.0,68500.0,2447.5,13400.0,3.0,2,2,Auburn Tigers,3
+Hooters,43000.0,4200.0,253.0,2800.0,46.0,21,9,LSU Tigers,5
+Hungry Howie's,58000.0,2600.0,134.0,1700.0,12.0,3,1,Michigan State Spartans,1
+Husky Throwbacks,340000.0,20000.0,459.0,10400.0,1.0,1,1,Washington Huskies,3
+Hy-Vee,138000.0,153000.0,9500.0,32000.0,1.0,1,1,Iowa Hawkeyes,3
+HydroJug,12900.0,2000.0,139.0,850.0,1.0,1,1,Undecided,1
+Hyperice,171000.0,209000.0,64000.0,4500.0,1.0,1,1,Stanford Cardinal,3
+IT Cosmetics,369000.0,440000.0,237000.0,46000.0,1.0,1,1,UCLA Bruins,0
+Icons of Oklahoma,35000.0,22000.0,3700.0,11600.0,1.0,1,1,Oklahoma Sooners,1
+Index,42000.0,40000.0,602.0,108.0,1.0,1,1,Utah Utes,1
+Infinity Clothing,314000.0,37000.0,493.0,13700.0,1.0,1,1,Ohio State Buckeyes,3
+InfluenceTee,19500.0,9400.0,44000.0,2500.0,1.0,1,1,Pittsburgh Panthers,1
+Inspire Me Bracelets,9000.0,1900.0,502.0,143.0,1.0,1,1,Undecided,1
+Instagram,369000.0,440000.0,237000.0,46000.0,1.0,1,1,UCLA Bruins,0
+Integrated Psychological Assessment Services,42000.0,13500.0,40000.0,8000.0,1.0,1,1,Stanford Cardinal,1
+Iowa Cubs,138000.0,153000.0,9500.0,32000.0,1.0,1,1,Iowa Hawkeyes,3
+Iowa Giving Crew,175000.0,6000.0,4.0,5000.0,1.0,1,1,Iowa Hawkeyes,1
+Izod,18400.0,10200.0,29000.0,843.0,1.0,1,1,Miami Hurricanes,1
+J. Wilson,300000.0,73000.0,83000.0,16500.0,1.0,1,1,Kansas Jayhawks,3
+J.T. Woolverton Foundation,102000.0,36500.0,3431.0,4050.0,8.0,4,1,UCLA Bruins,1
+JJ's Tint,213000.0,252000.0,145000.0,6500.0,1.0,1,1,Baylor Bears,3
+JW10,300000.0,73000.0,83000.0,16500.0,1.0,1,1,Kansas Jayhawks,3
+Jenloop,68000.0,8300.0,114.0,3100.0,3.0,1,1,Alabama Crimson Tide,1
+Jersey Mike's,32000.0,26000.0,3000.0,1700.0,1.0,1,1,Utah Utes,1
+Johnny's Tavern,65000.0,19350.0,22847.0,6351.0,3.0,2,1,Kansas Jayhawks,1
+Jordan Brand,45000.0,41000.0,2400.0,3500.0,1.0,1,1,UCLA Bruins,1
+Just Salad,35000.0,15400.0,76000.0,1300.0,1.0,1,1,Florida Gators,1
+Just Women’s Sports,49000.0,38000.0,11100.0,3100.0,2.0,1,1,Texas Longhorns,1
+KINLÒ,193000.0,180000.0,402000.0,10100.0,2.0,1,1,North Carolina Tar Heels,4
+KOKOLU,42000.0,40000.0,602.0,108.0,1.0,1,1,Utah Utes,1
+Kane Footwear,292000.0,33000.0,1700.0,17500.0,5.0,3,1,Ohio State Buckeyes,3
+Keller Williams Sports + Entertainment,164000.0,2900.0,186.0,3500.0,6.0,1,1,Texas Tech Red Raiders,1
+Kentucky Branded,197000.0,7800.0,9200.0,4500.0,1.0,1,1,Kentucky Wildcats,3
+Kick The Sheets,37000.0,2400.0,37.0,1500.0,2.0,1,1,Penn State Nittany Lions,1
+Kinly,193000.0,180000.0,402000.0,10100.0,1.0,1,1,North Carolina Tar Heels,4
+Knix,40000.0,29000.0,10700.0,1400.0,1.0,1,1,Michigan Wolverines,1
+Kroger,84000.0,79000.0,86000.0,690.0,2.0,1,1,Louisville Cardinals,1
+Krystal,71500.0,18100.0,3950.0,6250.0,19.0,10,4,Florida Gators,5
+Kum & Go,64500.0,22850.0,29300.0,11300.0,3.0,2,2,Iowa State Cyclones,1
+LA Food Bank,105000.0,37000.0,659.0,21000.0,1.0,1,1,UCLA Bruins,3
+LA Sports Innovation Conference,105000.0,37000.0,659.0,21000.0,1.0,1,1,UCLA Bruins,3
+Lacrosse Unlimited,13500.0,3850.0,4997.5,279.5,6.0,2,2,USC Trojans,1
+Legacy League,30000.0,19300.0,8600.0,1500.0,1.0,1,1,Auburn Tigers,1
+LegalZoom,105000.0,37000.0,659.0,21000.0,1.0,1,1,UCLA Bruins,3
+Levi's,91000.0,17300.0,177.0,7500.0,4.0,3,3,UCLA Bruins,1
+Levine Children’s,245000.0,47000.0,6000.0,16000.0,1.0,1,1,Clemson Tigers,3
+Lids,143000.0,86000.0,5400.0,5200.0,5.0,3,3,Undecided,1
+Life Wallet,63000.0,9200.0,172.0,3400.0,19.0,5,1,Miami Hurricanes,5
+Life+STYLE by Laura,142000.0,25500.0,854.5,8700.0,16.0,10,8,Alabama Crimson Tide,5
+LifeBrand,75000.0,88000.0,9200.0,5700.0,1.0,1,1,Stanford Cardinal,1
+LilyAna Naturals,42000.0,40000.0,602.0,108.0,1.0,1,1,Utah Utes,1
+Liquid I.V.,72000.0,17600.0,118000.0,1900.0,1.0,1,1,UCLA Bruins,1
+Little King Deli & Subs,10000.0,3000.0,425.0,558.0,18.0,9,1,Creighton Bluejays,5
+LittleStar ABA Therapy,35000.0,25000.0,14000.0,9600.0,1.0,1,1,Indiana Hoosiers,1
+Littlejohn Community,49000.0,12300.0,467.0,4000.0,1.0,1,1,Clemson Tigers,1
+Live Nation,199000.0,241000.0,2100.0,10000.0,1.0,1,1,Oklahoma Sooners,3
+Long McArthur Ford,178000.0,92000.0,55000.0,9600.0,2.0,1,1,Kansas Jayhawks,3
+Love's Travel Stops,61000.0,55000.0,10200.0,18400.0,1.0,1,1,Oklahoma Sooners,3
+Lucky Jack Coffee,364000.0,45000.0,5100.0,27000.0,1.0,1,1,Florida State Seminoles,3
+Lulus,59500.0,47200.0,81000.0,995.0,2.0,2,2,Louisville Cardinals,1
+Made Equal Clothing Co.,58000.0,9400.0,2400.0,5600.0,1.0,1,1,Undecided,1
+Mario’s Fishbowl,158000.0,10100.0,5400.0,7700.0,1.0,1,1,West Virginia Mountaineers,1
+Mark Wahlberg Chevrolet of Columbus,314000.0,37000.0,493.0,13700.0,1.0,1,1,Ohio State Buckeyes,3
+MarketPryce,10300.0,3000.0,4900.0,172.0,7.0,1,1,Creighton Bluejays,1
+Matthews Motors,197000.0,16700.0,4600.0,5900.0,2.0,1,1,NC State Wolfpack,3
+MaxBat,38000.0,30000.0,17000.0,5800.0,1.0,1,1,Washington Huskies,1
+Meals by Misty,30000.0,8500.0,480.0,8800.0,1.0,1,1,Georgia Tech Yellow Jackets,1
+MensXMental,21000.0,3500.0,1500.0,2400.0,1.0,1,1,Houston Cougars,1
+Mercury,106000.0,12300.0,14000.0,14300.0,11.0,11,4,Clemson Tigers,5
+Meta,70000.0,26200.0,38329.5,11150.0,5.0,2,2,Florida Gators,1
+Method Products,30000.0,19300.0,8600.0,1500.0,1.0,1,1,Auburn Tigers,1
+Metro Straw,119000.0,17900.0,210.0,9600.0,1.0,1,1,Undecided,1
+Meyer Center,57000.0,20000.0,12000.0,8700.0,1.0,1,1,Undecided,1
+Mike Jones Ford Lincoln,30550.0,5250.0,835.0,3400.0,2.0,2,1,Virginia Tech Hokies,1
+Milo's Sweet Tea,145000.0,61000.0,37000.0,17700.0,2.0,1,1,Alabama Crimson Tide,3
+Minky Couture,15200.0,4000.0,834.0,176.0,4.0,3,1,Utah Utes,1
+Mission BBQ,40000.0,3400.0,109.0,2500.0,14.0,5,1,Notre Dame Fighting Irish,1
+Momento NFT,171000.0,209000.0,64000.0,4500.0,1.0,1,1,Stanford Cardinal,3
+Monos Travel & Luggage,35000.0,15400.0,76000.0,1300.0,1.0,1,1,Florida Gators,1
+Montana Fouts Pitching Camp,145000.0,146000.0,179000.0,38000.0,1.0,1,1,Alabama Crimson Tide,0
+MontanaFouts14.com,145000.0,146000.0,179000.0,38000.0,1.0,1,1,Alabama Crimson Tide,0
+Moolah Kicks,42500.0,15150.0,124150.0,893.5,5.0,2,2,Penn State Nittany Lions,1
+More than a Bed,33000.0,3700.0,38.0,1800.0,1.0,1,1,Arizona Wildcats,1
+Morgan & Morgan,97000.0,43000.0,8700.0,18500.0,2.0,1,1,Alabama Crimson Tide,3
+Motier Lafayette,75000.0,23000.0,628.0,11900.0,1.0,1,1,LSU Tigers,1
+Mountain America Credit Union,473000.0,17900.0,44.0,9000.0,1.0,1,1,Undecided,3
+My Gameday Shop,69000.0,8900.0,360.0,8650.0,12.0,8,3,Alabama Crimson Tide,5
+NBA2K,75000.0,88000.0,9200.0,5700.0,1.0,1,1,Stanford Cardinal,1
+NEXT 22,171000.0,209000.0,64000.0,4500.0,1.0,1,1,Stanford Cardinal,3
+NFL Sunday Ticket,106000.0,40000.0,70000.0,39000.0,1.0,1,1,Clemson Tigers,3
+NOBULL,468000.0,30000.0,919.0,7100.0,5.0,3,3,Kentucky Wildcats,3
+NOCAP Sports,31000.0,22000.0,7300.0,1700.0,1.0,1,1,Arkansas Razorbacks,1
+NOERDEN,31000.0,22000.0,7300.0,1700.0,1.0,1,1,Arkansas Razorbacks,1
+Native Sons,443000.0,21000.0,7800.0,8800.0,1.0,1,1,Coastal Carolina Chanticleers,3
+Neutrogena,350000.0,378000.0,491000.0,1300.0,1.0,1,1,California Golden Bears,4
+Next Play Capital,105000.0,37000.0,659.0,21000.0,1.0,1,1,UCLA Bruins,3
+NextName,26500.0,10200.0,153.0,5100.0,20.0,12,2,Illinois Fighting Illini,5
+Nike,75000.0,88000.0,1000.0,4500.0,7.0,5,4,Stanford Cardinal,5
+North Rock Creek Baseball & Softball Camp,17700.0,2600.0,18.0,970.0,2.0,1,1,Oklahoma Sooners,1
+Northside Food Pantry Advisors,236000.0,8800.0,60000.0,92.0,1.0,1,1,Pittsburgh Panthers,3
+Novashine Teeth Whitening,76000.0,77000.0,4800.0,9600.0,1.0,1,1,Florida Gators,1
+Novus,52000.0,54000.0,28000.0,16400.0,1.0,1,1,Syracuse Orange,1
+Nyle Maxwell Family of Dealerships,86000.0,88000.0,106000.0,1300.0,13.0,1,1,Texas Longhorns,1
+OZONE Leotards,208000.0,239000.0,15600.0,28000.0,3.0,3,3,Utah Utes,0
+Oklahoma State Sour Gummies,168000.0,123000.0,565000.0,14700.0,1.0,1,1,Oklahoma State Cowboys,4
+Omaha Steak Company,28600.0,21450.0,4301.0,352.0,2.0,2,1,Utah Utes,1
+One.One,245000.0,18500.0,36000.0,10600.0,1.0,1,1,Kansas State Wildcats,3
+Onyx Authenticated,480000.0,106500.0,70350.0,40000.0,6.0,2,2,Ohio State Buckeyes,0
+Open Hand Atlanta,32000.0,3700.0,42.0,1700.0,2.0,1,1,Georgia Tech Yellow Jackets,1
+Orange Mountain Designs,26000.0,15000.0,831.0,2000.0,3.0,1,1,Tennessee Volunteers,1
+Orangetheory Fitness,102000.0,107000.0,31000.0,28000.0,1.0,1,1,South Carolina Gamecocks,3
+Orgain,49000.0,38000.0,11100.0,3100.0,1.0,1,1,Texas Longhorns,1
+Orlando City SC,11550.0,3400.0,13750.0,304.5,8.0,2,1,UCF Knights,1
+Outback Steakhouse,70000.0,24000.0,7100.0,7100.0,23.0,12,12,Michigan Wolverines,5
+Overtime,23000.0,13800.0,6200.0,2500.0,1.0,1,1,Arizona Wildcats,1
+Overtime Fits,213000.0,252000.0,145000.0,6500.0,1.0,1,1,Baylor Bears,3
+PSD Underwear,89000.0,36000.0,8900.0,14700.0,11.0,5,4,Alabama Crimson Tide,5
+PUMA,10500.0,1700.0,698.0,261.0,12.0,5,2,Pepperdine Waves,1
+Panda Express,369000.0,440000.0,237000.0,46000.0,1.0,1,1,UCLA Bruins,0
+Panini America,169000.0,71000.0,900.0,26000.0,1.0,1,1,Wisconsin Badgers,3
+Par Mar Stores,103500.0,2350.0,4.5,2400.0,3.0,2,1,West Virginia Mountaineers,1
+Paul Miller Ford,524000.0,76000.0,139000.0,42000.0,1.0,1,1,Kentucky Wildcats,0
+Pepsi,88000.0,28000.0,45000.0,5300.0,14.0,11,10,Wisconsin Badgers,5
+Performance Toyota Bountiful,473000.0,17900.0,44.0,9000.0,1.0,1,1,Undecided,3
+Petsmart,69000.0,15400.0,16900.0,16300.0,1.0,1,1,Arkansas Razorbacks,1
+Pickens County Humane,17400.0,4100.0,82.0,1300.0,1.0,1,1,Clemson Tigers,1
+PlantFuel,241000.0,135000.0,20000.0,19700.0,2.0,1,1,Clemson Tigers,3
+Playa Bowls,43000.0,10550.0,1577.0,1700.0,11.0,2,2,Ohio State Buckeyes,1
+Playa’s Fashion,15000.0,9700.0,156.0,706.0,1.0,1,1,NC State Wolfpack,1
+Plum Practicewear,115500.0,133500.0,2550.0,5850.0,2.0,2,2,Utah Utes,3
+Pond Lehocky,151000.0,27000.0,1100.0,15500.0,1.0,1,1,Georgia Bulldogs,3
+Portland Gear,171000.0,209000.0,64000.0,4500.0,3.0,1,1,Stanford Cardinal,3
+Pottery Barn Teen,369000.0,440000.0,237000.0,46000.0,1.0,1,1,UCLA Bruins,0
+Power of Bowser Auto,236000.0,8800.0,60000.0,92.0,1.0,1,1,Pittsburgh Panthers,3
+Premier Girls Fastpitch,61000.0,55000.0,10200.0,18400.0,1.0,1,1,Oklahoma Sooners,3
+Primanti Bros,17800.0,9900.0,22013.0,2750.0,3.0,2,1,Pittsburgh Panthers,1
+Prisma Health-Upstate Giving,241000.0,135000.0,20000.0,19700.0,1.0,1,1,Clemson Tigers,3
+Pro Sports Zone,233000.0,65000.0,121000.0,16400.0,2.0,1,1,Michigan Wolverines,3
+Public Rec,35000.0,15400.0,76000.0,1300.0,1.0,1,1,Florida Gators,1
+Quatro Gymnastics,76000.0,77000.0,4800.0,9600.0,1.0,1,1,Florida Gators,1
+Quizlet,190500.0,200000.0,249150.0,1500.0,3.0,2,2,California Golden Bears,4
+RIND Snacks,31000.0,22000.0,7300.0,1700.0,1.0,1,1,Arkansas Razorbacks,1
+RITZ Crackers,37000.0,18400.0,50000.0,2500.0,1.0,1,1,Ohio State Buckeyes,1
+Raising Cane's,134000.0,32000.0,764.0,12650.0,12.0,6,4,LSU Tigers,5
+Rally House,300000.0,73000.0,83000.0,16500.0,1.0,1,1,Kansas Jayhawks,3
+Ramy Brook,30000.0,19300.0,8600.0,1500.0,1.0,1,1,Auburn Tigers,1
+Randy Wise Automotive Team,315000.0,75650.0,5144.5,27400.0,2.0,2,1,Michigan Wolverines,3
+Rapsodo Softball,35000.0,22000.0,3700.0,11600.0,1.0,1,1,Oklahoma Sooners,1
+Rayban,105000.0,37000.0,659.0,21000.0,1.0,1,1,UCLA Bruins,3
+Recruiting Analytics,41000.0,8800.0,11500.0,5600.0,2.0,1,1,Vanderbilt Commodores,1
+Red Rock Pharmacy,17200.0,6400.0,3100.0,751.5,13.0,10,1,Utah Utes,5
+Reebok,259000.0,318000.0,145000.0,35000.0,4.0,3,3,Baylor Bears,0
+Reese’s,58000.0,11200.0,25.0,4300.0,10.0,1,1,Florida Gators,1
+Ricart Automotive,436000.0,137000.0,1700.0,38000.0,3.0,1,1,Ohio State Buckeyes,0
+Rock Chalk NFT,300000.0,73000.0,83000.0,16500.0,1.0,1,1,Kansas Jayhawks,3
+RockChalk.io,65000.0,19350.0,22847.0,6351.0,3.0,2,1,Kansas Jayhawks,1
+Room2Room Movers,22000.0,9700.0,1400.0,273.0,1.0,1,1,Auburn Tigers,1
+Roots Natural Kitchen,43500.0,15400.0,178000.0,916.0,2.0,2,2,Pittsburgh Panthers,1
+SAXX Underwear,89000.0,25000.0,464.0,8600.0,7.0,5,1,South Carolina Gamecocks,1
+SOLDXOUT,25000.0,21000.0,4400.0,5500.0,1.0,1,1,NC State Wolfpack,1
+Salomone Digital Marketing,364000.0,45000.0,5100.0,27000.0,1.0,1,1,Florida State Seminoles,3
+SaluteLeos,35000.0,24150.0,9650.0,1450.0,2.0,2,2,Michigan Wolverines,1
+Salvio's Pizza,28000.0,17800.0,150.0,7200.0,1.0,1,1,North Carolina Tar Heels,1
+Saturday App,31000.0,21000.0,131.0,9800.0,1.0,1,1,Undecided,1
+Scarlet & Gold,22000.0,9700.0,1400.0,273.0,1.0,1,1,Auburn Tigers,1
+ScienceLogic,92500.0,18200.0,156.5,14900.0,7.0,2,2,Oklahoma Sooners,1
+Scotch Porter,105000.0,37000.0,659.0,21000.0,1.0,1,1,UCLA Bruins,3
+Scout,35000.0,15400.0,76000.0,1300.0,1.0,1,1,Florida Gators,1
+Scratch Kitchen & Cocktails,199000.0,241000.0,2100.0,10000.0,1.0,1,1,Oklahoma Sooners,3
+Seth Wadley Dealerships,19200.0,9200.0,267.0,1400.0,1.0,1,1,Undecided,1
+Simply Seattle,340000.0,20000.0,459.0,10400.0,1.0,1,1,Washington Huskies,3
+Six Star Pro Nutrition,133000.0,55000.0,424.0,7900.0,5.0,3,1,Alabama Crimson Tide,1
+Slate Milk,16200.0,4300.0,168.0,953.0,1.0,1,1,Undecided,1
+Smalls Sliders,123000.0,54000.0,2464.0,17950.0,3.0,2,2,Undecided,3
+Smoothie King,171000.0,85000.0,4300.0,24000.0,1.0,1,1,Undecided,3
+SoFabFood,293000.0,42000.0,161000.0,23000.0,1.0,1,1,Clemson Tigers,3
+SoFi,369000.0,440000.0,237000.0,46000.0,3.0,1,1,UCLA Bruins,0
+Sonny's BBQ,40000.0,3400.0,223.5,2350.0,19.0,6,1,Florida Gators,5
+Soul Runner,168000.0,123000.0,565000.0,14700.0,1.0,1,1,Oklahoma State Cowboys,4
+Sport Stix Pretzels,160000.0,15100.0,560.0,8000.0,3.0,1,1,Ole Miss Rebels,1
+Sprecher Brewery,37000.0,3100.0,60.0,3500.0,10.0,1,1,Wisconsin Badgers,1
+Sprouts Farmers Market,49000.0,38000.0,4300.0,2100.0,5.0,3,2,UCLA Bruins,1
+St. Francis Table Soup Kitchen,13150.0,2150.0,92.0,618.5,2.0,2,1,Georgia Tech Yellow Jackets,1
+Star Pizza,21000.0,3500.0,1500.0,2400.0,4.0,1,1,Houston Cougars,1
+Stifel,26000.0,23000.0,1000.0,4500.0,1.0,1,1,Stanford Cardinal,1
+Subway,436000.0,137000.0,1700.0,38000.0,2.0,1,1,Ohio State Buckeyes,0
+Super Coffee,12000.0,4600.0,9500.0,555.0,1.0,1,1,USC Trojans,1
+TIAA,14300.0,4900.0,4900.0,574.0,7.0,2,2,TCU Horned Frogs,1
+TIY,10300.0,3000.0,4900.0,172.0,1.0,1,1,Creighton Bluejays,1
+Takis,369000.0,440000.0,237000.0,46000.0,1.0,1,1,UCLA Bruins,0
+Team IFA,138000.0,9500.0,4500.0,2800.0,1.0,1,1,LSU Tigers,1
+Team Lax Goalie Rat,12000.0,4600.0,9500.0,555.0,1.0,1,1,USC Trojans,1
+The Athletic Collection,53000.0,12300.0,949.0,5500.0,14.0,7,4,LSU Tigers,5
+The Basketball Tournament,72000.0,33450.0,1158.5,4350.0,4.0,2,1,Dayton Flyers,1
+The Coldest Water,72000.0,17600.0,118000.0,1900.0,1.0,1,1,UCLA Bruins,1
+The Dank,18400.0,7200.0,3600.0,765.0,1.0,1,1,Undecided,1
+The GLD Shop,137000.0,81500.0,317500.0,26850.0,3.0,2,2,Oklahoma State Cowboys,4
+The Inspiration Co.,42000.0,40000.0,602.0,108.0,1.0,1,1,Utah Utes,1
+The Kitchen by Baked Brand,55000.0,19800.0,13600.0,3600.0,1.0,1,1,Minnesota Golden Gophers,1
+The M Den,554000.0,133000.0,889.0,47000.0,5.0,1,1,Michigan Wolverines,0
+The National Civil Rights Museum,23000.0,17400.0,909.0,1100.0,3.0,1,1,Memphis Tigers,1
+The Players Lounge,64000.0,15100.0,3700.0,9200.0,4.0,3,3,Oklahoma Sooners,1
+The Players Trunk,217000.0,35000.0,21000.0,11400.0,15.0,4,4,Western Michigan Broncos,5
+The Players' Lounge,132000.0,129250.0,2600.0,6150.0,2.0,2,2,Oklahoma Sooners,3
+The SKUT Shop,168000.0,123000.0,565000.0,14700.0,1.0,1,1,Oklahoma State Cowboys,4
+The Salvation Army Boys & Girls Clubs of Greater C,177000.0,29000.0,6300.0,9100.0,1.0,1,1,Clemson Tigers,3
+The Town Hall Grill,134000.0,74000.0,4400.0,26000.0,1.0,1,1,North Carolina Tar Heels,3
+The V Foundation,17350.0,11950.0,3150.0,1513.0,10.0,6,1,NC State Wolfpack,1
+The View on Fifth,314000.0,37000.0,493.0,13700.0,1.0,1,1,Ohio State Buckeyes,3
+The Warehouse at C.C. Creations,171000.0,11000.0,347.0,9500.0,1.0,1,1,Texas A&M Aggies,3
+ThirdLove,171000.0,209000.0,64000.0,4500.0,1.0,1,1,Stanford Cardinal,3
+Thompson Rental Services & Sales,89000.0,36000.0,450.0,22000.0,1.0,1,1,South Carolina Gamecocks,3
+Tifosi Optics,17900.0,5500.0,56000.0,293.0,1.0,1,1,Pittsburgh Panthers,1
+Top Gun,102000.0,107000.0,31000.0,28000.0,1.0,1,1,South Carolina Gamecocks,3
+Topps,138000.0,153000.0,9500.0,32000.0,2.0,1,1,Iowa Hawkeyes,3
+Tricolor Holdings,221500.0,28850.0,3431.0,4550.0,2.0,2,1,UCLA Bruins,3
+Tropical Smoothie Cafe,76000.0,77000.0,4800.0,9600.0,1.0,1,1,Florida Gators,1
+Tuffy Talk,19700.0,14200.0,13400.0,3000.0,1.0,1,1,NC State Wolfpack,1
+UCLA Ticket Office,105000.0,37000.0,659.0,21000.0,1.0,1,1,UCLA Bruins,3
+UGG,18400.0,10200.0,29000.0,843.0,1.0,1,1,Miami Hurricanes,1
+USA Competitions,32000.0,26000.0,3000.0,1700.0,1.0,1,1,Utah Utes,1
+Umaps,35000.0,15400.0,76000.0,1300.0,1.0,1,1,Florida Gators,1
+Uncle Funky's Daughter,75000.0,88000.0,9200.0,5700.0,1.0,1,1,Stanford Cardinal,1
+Under Armour,102000.0,107000.0,31000.0,28000.0,1.0,1,1,South Carolina Gamecocks,3
+Unilever,208000.0,239000.0,149000.0,28000.0,1.0,1,1,Utah Utes,0
+United States Polo Association,105000.0,37000.0,659.0,21000.0,1.0,1,1,UCLA Bruins,3
+Urban Outfitters,180000.0,80500.0,88500.0,9750.0,14.0,10,9,Georgia Bulldogs,5
+Urban Skin RX,213000.0,252000.0,145000.0,6500.0,1.0,1,1,Baylor Bears,3
+Utah Sour Gummies,15200.0,4000.0,834.0,176.0,1.0,1,1,Utah Utes,1
+Ute Zone,28600.0,21450.0,4301.0,352.0,2.0,2,1,Utah Utes,1
+VIDSIG,230000.0,3200.0,50.0,4700.0,2.0,1,1,Ohio State Buckeyes,3
+VO2,22000.0,12300.0,4300.0,1100.0,2.0,1,1,UCLA Bruins,1
+Valiant MGMT,233000.0,65000.0,121000.0,16400.0,1.0,1,1,Michigan Wolverines,3
+Vanessa Flair,32000.0,26000.0,3000.0,1700.0,1.0,1,1,Utah Utes,1
+Versiti Blood Center of Indiana,22500.0,11300.0,174.0,4600.0,12.0,2,1,Purdue Boilermakers,1
+Vinaigrette Salad Kitchen,84000.0,79000.0,86000.0,690.0,1.0,1,1,Louisville Cardinals,1
+Virc Nutritionals,364000.0,45000.0,5100.0,27000.0,1.0,1,1,Florida State Seminoles,3
+Virc Snacks,42000.0,40000.0,602.0,108.0,1.0,1,1,Utah Utes,1
+Visible Mobile,76000.0,77000.0,11100.0,4500.0,3.0,3,3,Texas Longhorns,1
+Vital Performance,213000.0,252000.0,145000.0,6500.0,1.0,1,1,Baylor Bears,3
+Volley On,9000.0,1900.0,502.0,143.0,1.0,1,1,Undecided,1
+Vuori,11700.0,4700.0,6400.0,829.0,2.0,1,1,Creighton Bluejays,1
+WME Sports,206500.0,26500.0,6450.0,3600.0,5.0,4,4,Villanova Wildcats,5
+WWE,30000.0,19300.0,8600.0,1500.0,4.0,1,1,Auburn Tigers,1
+Walcott Denistry,74000.0,16400.0,177.0,7500.0,1.0,1,1,Michigan Wolverines,1
+Walk-On’s Sports Bistreaux,364000.0,45000.0,5100.0,27000.0,1.0,1,1,Florida State Seminoles,3
+War of Will,524000.0,76000.0,139000.0,42000.0,1.0,1,1,Kentucky Wildcats,0
+Warriors 4 Peace,22000.0,9000.0,3300.0,6200.0,2.0,1,1,Indiana Hoosiers,1
+Web Apps America,114000.0,138000.0,23000.0,3000.0,1.0,1,1,Louisville Cardinals,1
+Wendy's,300000.0,73000.0,83000.0,16500.0,1.0,1,1,Kansas Jayhawks,3
+Wescom Credit Union,70000.0,75000.0,3100.0,2100.0,1.0,1,1,UCLA Bruins,1
+Whole Foods,105000.0,37000.0,659.0,21000.0,1.0,1,1,UCLA Bruins,3
+WinStar Farm,66000.0,15800.0,575.0,6400.0,2.0,1,1,Kentucky Wildcats,1
+Wing Stop,19800.0,15600.0,480.0,2100.0,2.0,1,1,NC State Wolfpack,1
+Wings Over,15000.0,8100.0,12500.0,611.0,1.0,1,1,NC State Wolfpack,1
+Wingstop,33000.0,29000.0,5.0,757.0,1.0,1,1,California Golden Bears,1
+Wiseguy Pizza Pie,28000.0,4600.0,1600.0,3200.0,1.0,1,1,Boise State Broncos,1
+Wizeprep,33000.0,29000.0,5.0,757.0,1.0,1,1,California Golden Bears,1
+Wolverine Weekend,149000.0,30000.0,889.0,14000.0,3.0,3,1,Michigan Wolverines,3
+Wolverine+,162500.0,47500.0,61100.0,15200.0,3.0,2,1,Michigan Wolverines,3
+Wrangler,187500.0,48300.0,115500.0,10950.0,3.0,2,2,Texas Longhorns,3
+Xenith Prep Kickoff Classic,61500.0,14100.0,11867.5,14200.0,4.0,2,2,Kentucky Wildcats,1
+Xtreme Xperience,53000.0,10800.0,287.0,4700.0,1.0,1,1,Michigan Wolverines,1
+YMCA of Monroe County,29500.0,15900.0,21128.0,11400.0,2.0,2,1,Indiana Hoosiers,1
+YOKE,74000.0,21500.0,7900.0,11400.0,10.0,6,3,Alabama Crimson Tide,5
+Yasso Frozen Greek Yogurt,35000.0,15400.0,76000.0,1300.0,2.0,1,1,Florida Gators,1
+ZYIA Active,16800.0,5800.0,3200.0,208.0,3.0,3,1,Utah Utes,1
+ZipRecruiter,35000.0,15400.0,76000.0,1300.0,1.0,1,1,Florida Gators,1
+adidas,47100.0,41150.0,43950.0,808.0,4.0,2,2,NC State Wolfpack,1
+bibigo,369000.0,440000.0,237000.0,46000.0,1.0,1,1,UCLA Bruins,0
+crocs,30900.0,24800.0,10450.0,3400.0,11.0,4,4,Utah Utes,5
+cuts,52000.0,54000.0,28000.0,16400.0,1.0,1,1,Syracuse Orange,1
+envio skincare,10300.0,3000.0,4900.0,172.0,1.0,1,1,Creighton Bluejays,1
+mnml,32000.0,17500.0,57000.0,1400.0,1.0,1,1,Arizona Wildcats,1
+mph.bank,35000.0,15400.0,76000.0,1300.0,1.0,1,1,Florida Gators,1
+nuuly,101000.0,98000.0,176000.0,1000.0,1.0,1,1,Duke Blue Devils,1
+sauce,105000.0,37000.0,659.0,21000.0,1.0,1,1,UCLA Bruins,3
+scoutSMART,72000.0,17600.0,118000.0,1900.0,1.0,1,1,UCLA Bruins,1
+sweetgreen,13350.0,6950.0,951.0,2271.5,3.0,2,2,Undecided,1
